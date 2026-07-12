@@ -701,24 +701,7 @@ Explain exception handling in Python.
 
 <hr>
 
-<h2>🖥️ Application Preview</h2>
 
-<div align="center">
-
-  <img src="assets/application-preview.png" width="900" alt="Application Preview">
-
-  <br><br>
-
-  <p>
-    <i>
-      Upload your project screenshot inside an assets folder with the
-      filename application-preview.png.
-    </i>
-  </p>
-
-</div>
-
-<hr>
 
 <h2>✅ Advantages</h2>
 
